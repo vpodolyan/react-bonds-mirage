@@ -1,4 +1,4 @@
-Bond inforamtion and historic data page implemented on React and MirageJS.
+Bond information and historic data page implemented on React and MirageJS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
